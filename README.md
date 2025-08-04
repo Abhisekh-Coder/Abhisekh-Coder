@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abhisekh-Coder
 - 👀 I’m interested in ... Product management 
 - 🌱 I’m currently learning ... Python , SQL
-- 💞️ I’m looking to collaborate on ... some project where i can give inputs
 - 📫 How to reach me ... Abhisekhkumarsahoo@gmail.com
 
 <!---
